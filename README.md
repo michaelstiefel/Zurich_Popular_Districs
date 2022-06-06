@@ -34,4 +34,4 @@ The Jupyter notebook contains all the code used for this analysis and direct lin
 
 ## Results
 
-Please see this Medium post for a detailed discussion: 
+Please see this Medium post for a detailed discussion: https://medium.com/@ultimate_icterine_crab_125/zurichs-most-popular-districts-ed391b40c8c8
