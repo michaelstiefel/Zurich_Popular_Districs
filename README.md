@@ -5,12 +5,12 @@ popular areas in Zurich. It is part of the Udacity Nanodegree program.
 
 ## Libraries used
 
-numpy: 1.21.6
-pandas: 1.3.5
-matplotlib: 3.5.1
-seaborn: 0.11.2
-geopandas: 0.10.2
-imageio: 2.19.2
+- numpy: 1.21.6
+- pandas: 1.3.5
+- matplotlib: 3.5.1
+- seaborn: 0.11.2
+- geopandas: 0.10.2
+- imageio: 2.19.2
 
 ## Motivation
 
